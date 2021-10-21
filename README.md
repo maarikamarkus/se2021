@@ -1,6 +1,14 @@
-# se2021
+# Sissejuhatus erialasse HTML seminar
 
 Kui töö on valmis:
+
+- Näita ette 
+
+- Lisa töö git-i ja GitHubi
+
+## HTML seminari töö lisamine git-i/GitHubi
+
+Järgnev plokk juhendab, kuidas lisada tehtud töö git-i ja GitHubi
 
 ## Git Bash terminalis:
 
